@@ -164,3 +164,7 @@ cython_debug/
 alembic
 
 *.ini
+
+docker
+
+nginx
